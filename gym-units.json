@@ -1,0 +1,97 @@
+[
+    {
+        "name": "FitPlus Center",
+        "images": [
+            "https://s3.amazonaws.com/smartsystem-prod/pictures/8176/big/smart-fit-unidade-floripa-shopping-escada.jpg?1598376127",
+            "https://s3.amazonaws.com/smartsystem-prod/pictures/10082/big/_DSC1384.jpg?1643638328"
+        ],
+        "address": "Av. Paulista, 1200 - São Paulo, SP",
+        "geo": {
+            "lat": "-27.606242346609786",
+            "lng": "-48.47315216173425"
+        },
+        "hours": {
+            "weekday": "6:00 - 23:00",
+            "weekend": "8:00 - 18:00"
+        },
+        "monthly_fee": 199.99,
+        "contact_phone": "+5511999999999",
+        "whatsapp": "https://wa.me/5511999999999"
+    },
+    {
+        "name": "PowerHouse Gym",
+        "images": [
+            "https://s3.amazonaws.com/smartsystem-prod/pictures/12795/big/DSC_2691.jpg?1703614509",
+            "https://s3.amazonaws.com/smartsystem-prod/pictures/12800/big/DSC_2675.jpg?1703614570"
+        ],
+        "address": "Rua das Flores, 345 - Curitiba, PR",
+        "geo": {
+            "lat": "-37.3159",
+            "lng": "81.1496"
+        },
+        "hours": {
+            "weekday": "5:00 - 22:00",
+            "weekend": "9:00 - 16:00"
+        },
+        "monthly_fee": 149.90,
+        "contact_phone": "+5541999999999",
+        "whatsapp": "https://wa.me/5541999999999"
+    },
+    {
+        "name": "Extreme Fitness Club",
+        "images": [
+            "https://scproduction.s3.sa-east-1.amazonaws.com/wysiwyg_uploads/cms/images/2018/10/01/19/07-h9ytse3i.JPG",
+            "https://tecnoartengenharia.com.br/wp-content/uploads/2020/03/academia-em-predio-residencial.jpeg"
+        ],
+        "address": "Av. Atlântica, 500 - Rio de Janeiro, RJ",
+        "geo": {
+            "lat": "-27.614462221959446",
+            "lng": "-48.44516073943978"
+        }, 
+        "hours": {
+            "weekday": "6:00 - 22:00",
+            "weekend": "6:00 - 22:00"
+        },
+        "monthly_fee": 229.90,
+        "contact_phone": "+5521999999999",
+        "whatsapp": "https://wa.me/5521999999999"
+    },
+    {
+        "name": "HealthZone",
+        "images": [
+            "https://s3.amazonaws.com/smartsystem-prod/pictures/15580/big/bd4e972f001e80a8ada8b7cb189a6b53.jpeg?1724872488",
+            "https://s3.amazonaws.com/smartsystem-prod/pictures/15576/big/755efbd2db3bd0a101a1d0c2f5e422e2.jpeg?1724871761"
+        ],
+        "address": "Av. João Pessoa, 789 - Porto Alegre, RS",
+        "geo": {
+            "lat": "-27.598023795026272", 
+            "lng": "-48.499780945288926"
+        },
+        "hours": {
+            "weekday": "24 hours",
+            "weekend": "24 hours"
+        },
+        "monthly_fee": 179.90,
+        "contact_phone": "+5551999999999",
+        "whatsapp": "https://wa.me/5551999999999"
+    },
+    {
+        "name": "StrongLife Academy",
+        "images": [
+            "https://cdn.myside.com.br/base/749/cf0/d49/posh-physical-center-jurere-florianopolis.jpg",
+            "https://cdn6.campograndenews.com.br/uploads/noticias/2024/02/07/51a1d1ed7421ca1c6cccdd86805ed5b0c36004f7.jpeg"
+        ],
+        "address": "Rua das Palmeiras, 101 - Belo Horizonte, MG",
+        "geo": {
+            "lat": "-27.593726332038685",
+            "lng": "-48.55082802325766"
+        },
+        "hours": {
+            "weekday": "6:00 - 22:00",
+            "weekend": "8:00 - 14:00"
+        },
+        "monthly_fee": 189.90,
+        "contact_phone": "+5531999999999",
+        "whatsapp": "https://wa.me/5531999999999"
+    }
+]
