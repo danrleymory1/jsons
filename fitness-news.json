@@ -1,0 +1,99 @@
+{
+  "title": "Notícias de Saúde e Fitness",
+  "actions": [
+    {
+      "url": "#",
+      "type": "rss"
+    },
+    {
+      "url": "#",
+      "type": "envelope"
+    }
+  ],
+  "items": [
+    {
+      "title": "5 exercícios simples para começar seu dia com energia",
+      "url": "#",
+      "description": "Aprenda uma rotina matinal de exercícios que irá aumentar sua disposição e melhorar seu humor."
+    },
+    {
+      "title": "Alimentação balanceada: o segredo para uma vida saudável",
+      "url": "#",
+      "description": "Descubra os benefícios de uma dieta equilibrada e como ela pode transformar sua saúde."
+    },
+    {
+      "title": "Treino de alta intensidade: queima de calorias em 20 minutos",
+      "url": "#",
+      "description": "Explore como o HIIT pode ajudar a queimar gordura rapidamente e melhorar seu condicionamento físico."
+    },
+    {
+      "title": "A importância da hidratação durante os treinos",
+      "url": "#",
+      "description": "Entenda por que manter-se hidratado é crucial para o desempenho físico e a recuperação muscular."
+    },
+    {
+      "title": "Yoga para iniciantes: alongamento e relaxamento",
+      "url": "#",
+      "description": "Veja como práticas simples de yoga podem melhorar sua flexibilidade e aliviar o estresse do dia a dia."
+    },
+    {
+      "title": "Como o sono afeta seu desempenho nos exercícios",
+      "url": "#",
+      "description": "Saiba por que dormir bem é essencial para obter melhores resultados em sua rotina de exercícios."
+    },
+    {
+      "title": "Dieta vegana: é possível ganhar massa muscular?",
+      "url": "#",
+      "description": "Descubra como os atletas veganos estão ganhando força e massa muscular com uma dieta à base de plantas."
+    },
+    {
+      "title": "Cuidados com a postura durante a musculação",
+      "url": "#",
+      "description": "Aprenda as melhores práticas para evitar lesões e manter a postura correta durante os treinos de musculação."
+    },
+    {
+      "title": "Corrida de rua: dicas para iniciantes",
+      "url": "#",
+      "description": "Confira um guia completo para quem deseja começar a correr, desde a escolha do tênis até a técnica ideal."
+    },
+    {
+      "title": "Como reduzir o estresse através da atividade física",
+      "url": "#",
+      "description": "Entenda como exercícios regulares podem ajudar a controlar os níveis de estresse e melhorar o bem-estar."
+    },
+    {
+      "title": "Crossfit: entenda os benefícios e riscos",
+      "url": "#",
+      "description": "Saiba mais sobre essa modalidade que combina exercícios de alta intensidade e funcionalidade."
+    },
+    {
+      "title": "Exercícios para melhorar a mobilidade das articulações",
+      "url": "#",
+      "description": "Conheça técnicas que podem ajudar a aumentar a mobilidade e prevenir lesões nas articulações."
+    },
+    {
+      "title": "A importância de um bom aquecimento antes do treino",
+      "url": "#",
+      "description": "Veja como o aquecimento adequado pode melhorar seu desempenho e reduzir o risco de lesões."
+    },
+    {
+      "title": "Alimentos que ajudam na recuperação muscular",
+      "url": "#",
+      "description": "Descubra quais alimentos são essenciais para acelerar a recuperação muscular pós-treino."
+    },
+    {
+      "title": "Pilates: equilíbrio entre corpo e mente",
+      "url": "#",
+      "description": "Saiba como o pilates pode melhorar sua força, flexibilidade e postura, além de relaxar a mente."
+    },
+    {
+      "title": "Os benefícios da caminhada diária para a saúde",
+      "url": "#",
+      "description": "Entenda como caminhar diariamente pode melhorar a saúde cardiovascular e mental."
+    }
+  ],
+  "moreLink": {
+    "url": "#",
+    "label": "Leia mais notícias"
+  }
+}
