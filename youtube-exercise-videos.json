@@ -2,26 +2,36 @@
   {
     "title": "10 EXERCICIOS QUE TODA MULHER PRECISA FAZER nos treinos",
     "url": "http://www.youtube.com/watch?v=zbN3mChHGDI",
-    "tags": "exercícios para mulheres, treino de academia, exercícios para queimar gordura"
+    "tags": "exercícios para mulheres, treino de academia, exercícios para queimar gordura",
+    "professor": "Ana Souza",
+    "duration": "15:30"
   },
   {
     "title": "Treino de crossfit para iniciantes - Você Bonita (05/11/18)",
     "url": "http://www.youtube.com/watch?v=n_78B87ZXMQ",
-    "tags": "treino de crossfit, iniciantes, exercícios para queimar gordura"
+    "tags": "treino de crossfit, iniciantes, exercícios para queimar gordura",
+    "professor": "Carlos Silva",
+    "duration": "20:45"
   },
   {
     "title": "Rotina de Exercícios Diários: Dia 1 (Queime Gordura + Exercícios de Bumbum e Pernas)",
     "url": "http://www.youtube.com/watch?v=DfIt58Ed5VU",
     "tags": "rotina de exercícios diários, queime gordura, exercícios de bumbum e pernas"
+    "professor": "Juliana Costa",
+    "duration": "25:00"
   },
   {
     "title": "EMAGREÇA EM CASA DANÇANDO | Junior Scaranelo e Gabriela Luche",
     "url": "http://www.youtube.com/watch?v=EGlbCLqe50o",
-    "tags": "emagrecer dançando, exercícios em casa, Junior Scaranelo, Gabriela Luche"
+    "tags": "emagrecer dançando, exercícios em casa, Junior Scaranelo, Gabriela Luche",
+    "professor": "Junior Scaranelo",
+    "duration": "30:15"
   },
   {
     "title": "Aula de ginástica coletiva na academia Bodyfit.",
     "url": "http://www.youtube.com/watch?v=gjQveNLqq1o",
-    "tags": "aula de ginástica coletiva, academia Bodyfit, exercícios para queimar gordura"
+    "tags": "aula de ginástica coletiva, academia Bodyfit, exercícios para queimar gordura",
+    "professor": "Fernanda Almeida",
+    "duration": "40:00"
   }
 ]
